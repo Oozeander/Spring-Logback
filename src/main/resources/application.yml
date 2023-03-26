@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: INFO # For all classes, including Spring's
+    com:
+      example:
+        logging: DEBUG # For classes under com.example.logging package
